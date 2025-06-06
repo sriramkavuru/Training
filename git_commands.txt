@@ -1,0 +1,4 @@
+git push	Push changes to remote repository (remembered branch)
+git pull	Update local repository to the newest commit
+git status	Check status
+git commit -m "[commit message]"	Commit changes
